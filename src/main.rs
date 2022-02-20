@@ -1,6 +1,5 @@
-use bevy::asset::AssetDynamic;
 use bevy::reflect::{TypeUuid, TypeUuidDynamic};
-use bevy::asset::{Asset};
+use bevy::asset::Asset;
 
 trait DerivedAsset: Asset { }
 
