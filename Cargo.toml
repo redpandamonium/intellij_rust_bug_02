@@ -4,4 +4,4 @@ version = "1.0.0"
 edition = "2021"
 
 [dependencies]
-bevy = "0.6.0"
+bevy_reflect = "0.6.0"
